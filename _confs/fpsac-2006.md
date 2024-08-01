@@ -30,7 +30,7 @@ invited_speakers:
   affiliation: <a href="http://www.math.ohio-state.edu/">Ohio State University</a>
 - name: Seok-Jin Kang
   url: http://www.genealogy.math.ndsu.nodak.edu/html/id.phtml?id=26479
-  affiliation:               (<a href="http://www.snu.ac.kr:6060/sc_sne_c/sc_sne_c_c/sc_sne_c_cc/1173662_3677.jsp">Seoul National University</a>
+  affiliation: <a href="https://www.mathgenealogy.org/id.php?id=26479">Seoul National University</a>
 - name: Tom Koornwinder
   url: http://staff.science.uva.nl/~thk/
   affiliation: <a href="http://www.science.uva.nl/english/home.cfm">Universiteit van Amsterdam</a>
