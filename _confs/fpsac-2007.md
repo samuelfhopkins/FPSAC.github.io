@@ -29,7 +29,7 @@ invited_speakers:
 - name: Anders Buch
   url: http://www.math.rutgers.edu/~asbuch/
   affiliation: <A HREF="http://www.math.rutgers.edu/">Rutgers University, USA</A>
-- name: Eva-Maria Feichtne
+- name: Eva-Maria Feichtner
   url: http://www.igt.uni-stuttgart.de/AbGeoTop/Feichtner/
   affiliation: <a href="http://www.uni-stuttgart.de/index.en.html">University of Stuttgart, Germany</a>
 - name: Sergey Fomin
@@ -103,7 +103,7 @@ program_committee:
   affiliation: <a href="http://www.cnrs.fr/">CNRS, France</a>
 - name: Anne Schilling
   url: http://www.math.ucdavis.edu/~anne/
-  affiliation: <a href="http://www.ucdavis.edu/index.html">(University of California, USA</a>
+  affiliation: <a href="http://www.ucdavis.edu/index.html">University of California, USA</a>
 - name: Hiro-Fumi Yamada
   affiliation: <a href="http://www.okayama-u.ac.jp/index_e.html">Okayama Univeristy, Japan</a>
 - name: S. Ole Warnaar
@@ -132,16 +132,16 @@ organizing_committee:
   affiliation: <a href="http://www.ucsd.edu/">University of California, San Diego, USA</a>
 - name: Monica Vazirani
   url: http://www.math.ucdavis.edu/~vazirani/
-  affiliation: <a href="http://www.ucdavis.edu/index.html">University of California, Davis, USA)</a>
+  affiliation: <a href="http://www.ucdavis.edu/index.html">University of California, Davis, USA</a>
 - name: Zhexian Wan
   url: http://www.combinatorics.cn/people/faculty_wan.htm
   affiliation: <a href="http://www.amss.ac.cn/amss-e/amssen.html">Academy of Mathematics & Systems Science, China</a>
 - name: Catherine Huafei Yan
   url: http://www.math.tamu.edu/~cyan/
-  affiliation: <a href="http://www.tamu.edu/">Texas A&amp;M University, USA)</a>
+  affiliation: <a href="http://www.tamu.edu/">Texas A&amp;M University, USA</a>
 - name: Mike Zabrocki
   url: http:// garsia.math.yorku.ca/~zabrocki/
-  affiliation: <a href="http://www.yorku.ca/web/index.htm">York University, Canada)</a>
+  affiliation: <a href="http://www.yorku.ca/web/index.htm">York University, Canada</a>
 
 ---
 # Supplementary files
